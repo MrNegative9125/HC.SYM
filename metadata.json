@@ -1,0 +1,5 @@
+{
+  "name": "AI Symptom Checker",
+  "description": "An AI-powered symptom checker that provides potential diagnoses, precautions, and recommendations based on user-inputted symptoms. This tool is for informational purposes only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
